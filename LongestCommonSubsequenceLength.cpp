@@ -1,3 +1,5 @@
+// to learn what is longest common subsequence problem, follow the link : https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+
 #include<bits/stdc++.h>
 using namespace std;
 
